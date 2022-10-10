@@ -44,26 +44,43 @@
 #### Ход работы (задание 1).
 1) Создать новый проект из шаблона 3D – Core;
 2) Скачать и импортировать нужные ассеты
+
 ![image](Screenshots/Assets.png)
+
 3) Взять готовый префаб дракона и разместить на сцене
+ 
 ![image](Screenshots/DragonEnemy.png)
+
 4) Создать контроллер анимации и добавить дракону анимацию полета
+
 ![image](Screenshots/AnimatorCTRL.png)
 ![image](Screenshots/FlyIdle.png)
+
 5) Создать объект драконьего яйца, сделать префаб
+
 ![image](Screenshots/DragonEgg.png)
+
 6) Создать объект энергетического щита, сделать префаб
+
 ![image](Screenshots/EnergyShield.png)
+
 7) Настроить главную камеру
+
 ![image](Screenshots/MainCamera.png)
+
 8) Код C# для появления яйца, изменение направления полета дракона. Подключить префаб яйца
+
 ![image](Screenshots/EnemyDragonScript.png)
 ![image](Screenshots/DragonEggConect.png)
+
 9) Добавить эффект взрыва при касании яйца земли, добавить землю
+
 ![image](Screenshots/Explosion.png)
 ![image](Screenshots/ParticleSystem.png)
 ![image](Screenshots/DragonEggScript.png)
-10) Написать скрипт, который будет управлять игрой;
+
+10) Написать скрипт, который будет управлять игрой
+
 ![image](Screenshots/DragonPickerScript.png)
 
 
